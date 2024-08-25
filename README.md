@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Kavindu Chamodya Nimshan.</h1>
-<h3 align="center">A undergraduate student in NSBM Green University. Currently I'm following a Bachelor of Information Technology (Major in Cyber Security) degree affiliated to Victoria University is offered at NSBM Green University.</h3>
+<h3 align="center">A undergraduate student in NSBM Green University. Currently, I'm following a Bachelor of Information Technology (Major in Cyber Security) degree affiliated to Victoria University is offered at NSBM Green University.</h3>
 
 - 🌱 I’m currently learning **Cyber Security**
 
